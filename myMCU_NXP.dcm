@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LPC845M301JBD64E
+D NXP 32-BIT ARM CORTEX-M0+
+K NXP, 32-BIT, ARM CORTEX-M0+, LQFP64
+F https://www.nxp.com/docs/en/data-sheet/LPC84x.pdf
+$ENDCMP
+#
+#End Doc Library
